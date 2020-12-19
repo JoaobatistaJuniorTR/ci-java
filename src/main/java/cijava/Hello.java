@@ -7,7 +7,7 @@ public class Hello {
 	}
 
 	public static boolean isActivated() {
-		return true;
+		return false;
 	}
 
 	public static boolean isNew() {

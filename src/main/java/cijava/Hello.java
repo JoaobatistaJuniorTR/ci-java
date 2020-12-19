@@ -10,4 +10,8 @@ public class Hello {
 		return true;
 	}
 
+	public static boolean isNew() {
+		return false;
+	}
+
 }

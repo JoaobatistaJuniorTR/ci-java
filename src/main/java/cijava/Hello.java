@@ -11,7 +11,7 @@ public class Hello {
 	}
 
 	public static boolean isNew() {
-		return true;
+		return false;
 	}
 
 }
